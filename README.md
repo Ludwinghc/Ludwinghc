@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m from Colombia 💛💛💛💙💙❤️<br><br>- 📚 I'm currently learning about DevOps 🚀, Azure ☁️, and Python 🐍<br>- ⚡ In my free time I love playing sports 🏅 and listening to music 🎶</p>
+<p align="left">I’m from Colombia 💛💛💛💙💙❤️<br><br>- 📚 I'm currently learning about DevOps 🚀, Azure ☁️, Angular🅰️ and Python 🐍<br>- ⚡ In my free time I love playing sports 🏅 and listening to music 🎶</p>
 
 ###
 
