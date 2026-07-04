@@ -25,11 +25,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>💻 I work as a software engineer with 3 years of experience 📅, currently in my final semester of Software Engineering 🎓.<br>👷‍♂️ Student member of the Colombian Society of Engineers 🇨🇴, I’m passionate about 💡 learning new technological trends 🌐 and applying my knowledge to innovative projects 🚀.<br>🤝 I excel in teamwork, taking on leadership roles 👨‍💼 when needed, and showing commitment to success 🏆 in every challenge.<br>📚 I enjoy acquiring new skills to strengthen my performance as a software engineer 🔧💻.</h3>
+<h3 align="left">👩‍💻  About Me <br>💻 Software Engineer specialized in Cloud DevOps ☁️, Platform Engineering 🛠️, automation ⚙️, and AI-driven solutions 🤖. I have hands-on experience designing Internal Developer Platforms, building cloud infrastructure, implementing CI/CD pipelines 🚀, and developing technical automation workflows with AWS, Terraform, GitHub Actions, Backstage, Python, and n8n.🎯 My work focuses on enhancing developer experience, increasing engineering productivity 📈, strengthening governance 🔐, and enabling more efficient, scalable, and reliable software delivery through cloud-native ☁️ and automation-first practices ⚡.
+</h3>
 
 ###
 
-<p align="left">I’m from Colombia 💛💛💛💙💙❤️<br><br>- 📚 I'm currently learning about DevOps 🚀, Azure ☁️, Angular🅰️ and Python 🐍<br>- ⚡ In my free time I love playing sports 🏅 and listening to music 🎶</p>
+<p align="left">I’m from Colombia 💛💛💛💙💙❤️<br><br>- 📚 I'm currently learning about DevOps and PlatForm Engineering 🚀, AI Automatization 🤖,  AWS ☁️, Angular🅰️ and Python 🐍<br>- ⚡ In my free time I love playing sports 🏅 and listening to music 🎶</p>
 
 ###
 
